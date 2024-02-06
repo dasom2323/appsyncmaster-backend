@@ -1,0 +1,17 @@
+{
+  "name": "appsyncmaster-backend",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Backend for the AppSync demo app",
+  "main": "index.js",
+  "scripts": {
+    "sls": "sls"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless": "^3.38.0",
+    "serverless-appsync-plugin": "^1.14.0"
+  }
+}
